@@ -35,7 +35,7 @@
     "yoshi": "^2.1.2"
   },
   "peerDependencies": {
-    "mjml": "^4.1.2",
+    "mjml": "^4.3.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
   },
